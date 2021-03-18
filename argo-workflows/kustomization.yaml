@@ -3,6 +3,6 @@ kind: Kustomization
 resources:
   - https://raw.githubusercontent.com/argoproj/argo-workflows/v2.12.10/manifests/install.yaml
 
-commonLabels:
+commonAnnotations:
   someName: someValue
   anotherName: anotherValue
