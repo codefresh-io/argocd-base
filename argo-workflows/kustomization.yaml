@@ -5,3 +5,4 @@ resources:
 
 commonLabels:
   someName: someValue
+  anotherName: anotherValue
