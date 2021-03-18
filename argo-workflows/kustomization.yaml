@@ -5,4 +5,3 @@ resources:
 
 commonAnnotations:
   someName: someValue
-  anotherName: anotherValue
